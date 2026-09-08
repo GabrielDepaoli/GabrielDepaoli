@@ -52,13 +52,6 @@ Já concluí a **AGES I**, onde tive o primeiro contato com um time de desenvolv
 
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
-| **Fluxo AGES 2.0 – Professores** | Sistema de gestão acadêmica desenvolvido na AGES para cliente real. Atuei no back-end: testes unitários dos serviços de nota e relatório, correção de falha de autenticação na criação de notas e de bugs de null safety. | Java · Spring Boot · JUnit |
+| **Fluxo AGES 2.0 – Professores** | Sistema de gestão acadêmica desenvolvido na AGES para cliente real. Atuei tanto no back-end quanto no front-end: testes unitários dos serviços de nota e relatório, correção de falha de autenticação na criação de notas e de bugs de null safety + prototipação no Figma, idealização de design inicial, desenvolvimento das primeiras telas com React | Java · React · Spring Boot · JUnit |
 
 ---
-
-### GitHub
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=GabrielDepaoli&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielDepaoli&layout=compact&theme=github_dark&hide_border=true&langs_count=6">
-</p>
