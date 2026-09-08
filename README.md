@@ -1,7 +1,7 @@
 <h1 align="center">Gabriel Tres Depaoli</h1>
 
 <p align="center">
-  Estudante de Engenharia de Software na PUCRS · Back-end em Java/Spring Boot<br>
+  Estudante de Engenharia de Software na PUCRS
   Porto Alegre, RS — Brasil
 </p>
 
