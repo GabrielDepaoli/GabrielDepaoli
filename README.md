@@ -18,13 +18,17 @@
 
 ### Sobre
 
-Curso Engenharia de Software na PUCRS e atuo na **AGES** (Agência Experimental de Engenharia de Software), onde desenvolvo projetos reais para clientes junto com outros estudantes, seguindo processo ágil, code review e Git flow.
+Sou estudante de Engenharia de Software na PUCRS, atualmente no 4º semestre, com previsão de formatura em 2028/2.
 
-Meu foco hoje é **back-end com Java e Spring Boot**, com interesse forte em estrutura de dados, qualidade de código e testes. Fora da faculdade, desenvolvo sistemas sob demanda para pequenos negócios — do levantamento de requisitos até a entrega.
+Ao longo do curso, tenho o privilégio de passar quatro vezes pela **AGES** (Agência Experimental de Engenharia de Software). Cada passagem corresponde a um nível diferente dentro da agência, e cada nível exige um conjunto próprio de habilidades, ampliando progressivamente a responsabilidade dentro do time.
 
-- Atualmente desenvolvendo um sistema de gestão completo, sozinho, do zero
-- Estudando projeto e otimização de algoritmos, linguagens de programação (ANTLR4) e bancos de dados
-- Aberto a oportunidades de **estágio em desenvolvimento back-end**
+Já concluí a **AGES I**, onde tive o primeiro contato com um time de desenvolvimento real entregando para um cliente real: sprints, code review, Git flow, prazos e alinhamento contínuo com o cliente. Nesse projeto atuei no back-end, escrevendo testes unitários e corrigindo falhas de autenticação e null safety em Java com Spring Boot.
+
+Meu interesse principal é **front-end**: React, interface e design. Gosto da parte em que a decisão técnica encosta na experiência de quem usa o produto — layout, fluxo de navegação, detalhe de interação. O back-end veio junto e é onde tenho a base mais sólida em testes e estruturação de código, o que me ajuda a entender o sistema inteiro em vez de só a camada visível.
+
+- Foco em **front-end e design de interface**, com base sólida em back-end (Java · Spring Boot)
+- Desenvolvo sistemas sob demanda para pequenos negócios, do levantamento de requisitos à entrega
+- Aberto a oportunidades de **estágio em desenvolvimento front-end**
 
 ---
 
@@ -49,11 +53,7 @@ Meu foco hoje é **back-end com Java e Spring Boot**, com interesse forte em est
 
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
-| **Fluxo AGES 2.0 – Professores** | Sistema de gestão acadêmica desenvolvido na AGES para cliente real. Atuei no back-end: testes unitários de serviços de nota e relatório, correção de falha de autenticação e bugs de null safety. | Java · Spring Boot · JUnit |
-| **Sistema de Fidelidade NFC** | Sistema desktop para restaurante: clientes acumulam pontos por visita e valor gasto via chaveiro NFC, trocáveis por cupons. Projeto sob demanda para cliente real. | Java · NFC · SQL |
-| **Sistema de Gestão Empresarial** | Sistema completo desenvolvido de forma independente, do levantamento de requisitos ao deploy. | Java · Spring Boot · PostgreSQL |
-| **Dashboard Stack Overflow Survey 2025** | Pipeline de ETL e dashboard analítico sobre a pesquisa anual de desenvolvedores, com medidas DAX e cinco visualizações. | Power BI · Power Query · DAX |
-| **O Cavalo Perdido** | Busca em largura (BFS) para movimentação de cavalo em tabuleiro toroidal, com análise de complexidade. | Java · Algoritmos |
+| **Fluxo AGES 2.0 – Professores** | Sistema de gestão acadêmica desenvolvido na AGES para cliente real. Atuei no back-end: testes unitários dos serviços de nota e relatório, correção de falha de autenticação na criação de notas e de bugs de null safety. | Java · Spring Boot · JUnit |
 
 ---
 
