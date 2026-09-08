@@ -2,7 +2,6 @@
 
 <p align="center">
   Estudante de Engenharia de Software na PUCRS
-  
   Porto Alegre, RS — Brasil
 </p>
 
