@@ -23,13 +23,11 @@ Sou estudante de Engenharia de Software na PUCRS, atualmente no 4º semestre, co
 
 Ao longo do curso, tenho o privilégio de passar quatro vezes pela **AGES** (Agência Experimental de Engenharia de Software). Cada passagem corresponde a um nível diferente dentro da agência, e cada nível exige um conjunto próprio de habilidades, ampliando progressivamente a responsabilidade dentro do time.
 
-Já concluí a **AGES I**, onde tive o primeiro contato com um time de desenvolvimento real entregando para um cliente real: sprints, code review, Git flow, prazos e alinhamento contínuo com o cliente. Nesse projeto atuei no back-end, escrevendo testes unitários e corrigindo falhas de autenticação e null safety em Java com Spring Boot.
-
-Meu interesse principal é **front-end**: React, interface e design. Gosto da parte em que a decisão técnica encosta na experiência de quem usa o produto — layout, fluxo de navegação, detalhe de interação. O back-end veio junto e é onde tenho a base mais sólida em testes e estruturação de código, o que me ajuda a entender o sistema inteiro em vez de só a camada visível.
+Já concluí a **AGES I**, onde tive o primeiro contato com um time de desenvolvimento real entregando para um cliente real: sprints, code review, Git flow, prazos e alinhamento contínuo com o cliente. Nesse projeto atuei no fornt e back-end; tanto trazendo a primeira ideia de design, prototipação no figma e desenvolvimento das primeiras telas utilizando React, até escrevendo testes unitários e corrigindo falhas de autenticação e null safety em Java com Spring Boot.
 
 - Foco em **front-end e design de interface**, com base sólida em back-end (Java · Spring Boot)
 - Desenvolvo sistemas sob demanda para pequenos negócios, do levantamento de requisitos à entrega
-- Aberto a oportunidades de **estágio em desenvolvimento front-end**
+- Aberto a oportunidades de **estágio em desenvolvimento**
 
 ---
 
